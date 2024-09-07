@@ -9,3 +9,7 @@ Answer: data science can be applied to healthcare to identify at-risk patients t
 Q3: What is the difference between merging and rebasing?
 
 Answer: merging keeps the history of both branches; rebasing rewrites history
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: i hope to improve my critical thinking when approaching problems analytically
